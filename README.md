@@ -10,12 +10,16 @@ Before you start, clone the starter codeLinks to an external site..
 
 
 User Story
+
+
 AS A project team member with multiple tasks to organize
 I WANT a task board 
 SO THAT I can add individual project tasks, manage their state of progress and track overall project progress accordingly
 
 
 Acceptance Criteria
+
+
 GIVEN a task board to manage a project
 WHEN I open the task board
 THEN the list of project tasks is displayed in columns representing the task progress state (Not Yet Started, In Progress, Completed)
